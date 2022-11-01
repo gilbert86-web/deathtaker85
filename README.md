@@ -3,7 +3,7 @@
 😃 Bienvenue sur mon profil, je suis étudiant en école d'ingénieurs à l'ECE de Paris.<br>
 ❤️je suis un passionné de nouvelles technologies comme le montre le choix de mon établissement.<br>
 💪Je suis un partisan du travail bien fait, je mets un point d'honneur à accomplir mes tâches de la meilleure des façons.<br>
-👨🏽‍💼Concernant mes attentes professionnelles auprès de futurs recruteurs, un environnement détendu et favorable au développement de soi et de la boite.<br>
+👨🏽‍💼Concernant mes attentes professionnelles auprès de futurs recruteurs, un environnement détendu et favorable au développement de soi et de la boite hh.<br>
 🧑🏽‍💻Grâce à ma formation actuelle je projette d'occuper des postes de développeurs web full stack lors de mes futurs stages.<br>
 
 **une liste non exhaustive de mes compétences**
