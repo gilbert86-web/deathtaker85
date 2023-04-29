@@ -5,7 +5,6 @@
 💪Je suis un partisan du travail bien fait, je mets un point d'honneur à accomplir mes tâches de la meilleure des façons.<br><br>
 🧑🏽‍💻Grâce à ma formation actuelle je projette d'occuper des postes de développeurs web full stack lors de mes futurs stages.<br><br>
 
-**une liste non exhaustive de mes compétences**
 
 
 <!--
